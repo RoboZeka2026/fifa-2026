@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Kylian Mbappé",
+    "rating": 91,
+    "position": "LW",
+    "club": "Real Madrid",
+    "image": "https://utcdn.ea.com/assets/fc24/v2/common/players/p231747.png",
+    "stats": { "PAC": 97, "SHO": 90, "PAS": 80, "DRI": 92, "DEF": 36, "PHY": 78 }
+  },
+  {
+    "name": "Erling Haaland",
+    "rating": 91,
+    "position": "ST",
+    "club": "Manchester City",
+    "image": "https://utcdn.ea.com/assets/fc24/v2/common/players/p239085.png",
+    "stats": { "PAC": 89, "SHO": 93, "PAS": 66, "DRI": 80, "DEF": 45, "PHY": 88 }
+  },
+  {
+    "name": "Jude Bellingham",
+    "rating": 90,
+    "position": "CM",
+    "club": "Real Madrid",
+    "image": "https://utcdn.ea.com/assets/fc24/v2/common/players/p256950.png",
+    "stats": { "PAC": 80, "SHO": 85, "PAS": 83, "DRI": 88, "DEF": 78, "PHY": 82 }
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "rating": 91,
+    "position": "CM",
+    "club": "Manchester City",
+    "image": "https://utcdn.ea.com/assets/fc24/v2/common/players/p192883.png",
+    "stats": { "PAC": 72, "SHO": 88, "PAS": 94, "DRI": 87, "DEF": 65, "PHY": 78 }
+  },
+  {
+    "name": "Lionel Messi",
+    "rating": 90,
+    "position": "CAM",
+    "club": "Inter Miami",
+    "image": "https://utcdn.ea.com/assets/fc24/v2/common/players/p158023.png",
+    "stats": { "PAC": 80, "SHO": 87, "PAS": 90, "DRI": 94, "DEF": 33, "PHY": 64 }
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "rating": 86,
+    "position": "ST",
+    "club": "Al Nassr",
+    "image": "https://utcdn.ea.com/assets/fc24/v2/common/players/p20801.png",
+    "stats": { "PAC": 77, "SHO": 88, "PAS": 75, "DRI": 80, "DEF": 34, "PHY": 74 }
+  },
+  {
+    "name": "Vinícius Júnior",
+    "rating": 89,
+    "position": "LW",
+    "club": "Real Madrid",
+    "image": "https://utcdn.ea.com/assets/fc24/v2/common/players/p238794.png",
+    "stats": { "PAC": 95, "SHO": 82, "PAS": 78, "DRI": 90, "DEF": 29, "PHY": 68 }
+  },
+  {
+    "name": "Harry Kane",
+    "rating": 90,
+    "position": "ST",
+    "club": "Bayern München",
+    "image": "https://utcdn.ea.com/assets/fc24/v2/common/players/p202126.png",
+    "stats": { "PAC": 69, "SHO": 93, "PAS": 84, "DRI": 83, "DEF": 49, "PHY": 83 }
+  },
+  {
+    "name": "Mohamed Salah",
+    "rating": 89,
+    "position": "RW",
+    "club": "Liverpool",
+    "image": "https://utcdn.ea.com/assets/fc24/v2/common/players/p209331.png",
+    "stats": { "PAC": 89, "SHO": 87, "PAS": 81, "DRI": 88, "DEF": 45, "PHY": 75 }
+  },
+  {
+    "name": "Virgil van Dijk",
+    "rating": 89,
+    "position": "CB",
+    "club": "Liverpool",
+    "image": "https://utcdn.ea.com/assets/fc24/v2/common/players/p203376.png",
+    "stats": { "PAC": 78, "SHO": 60, "PAS": 71, "DRI": 72, "DEF": 89, "PHY": 86 }
+  }
+]
